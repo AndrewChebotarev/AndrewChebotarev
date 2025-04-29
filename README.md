@@ -5,6 +5,19 @@
 
 ### 🔥 **Моя статистика на GitHub**  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndrewChebotarev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![wakatime](https://wakatime.com/badge/user/ВАШ_ID.svg)](https://wakatime.com/@ВАШ_ID)  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndrewChebotarev&theme=radical&hide_border=true)](https://wakatime.com/@AndrewChebotarev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=REPO_NAME&theme=radical)](https://github.com/AndrewChebotarev/REPO_NAME)
+
+![Metrics](https://metrics.lecoq.io/AndrewChebotarev?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
+
+
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewChebotarev&show_icons=true&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
 
