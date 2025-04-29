@@ -1,10 +1,12 @@
+<div align="center">
+
 # Привет! 👋  
 🚀 *Software Engineer*  
 
 ### 🔥 **Моя статистика на GitHub**  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewChebotarev&show_icons=true&theme=radical&hide_border=true)](https://github.com/ВАШ_НИК)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/ВАШ_НИК)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewChebotarev&show_icons=true&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
 
 ### 📈 **График активности**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewChebotarev&theme=github-dark&hide_border=true&area=true)  
@@ -22,3 +24,5 @@
 
 ---  
 ✨ *Спасибо, что заглянули!* ✨  
+
+</div>
