@@ -4,11 +4,9 @@
 🚀 *Software Engineer*  
 
 ### 🔥 **Моя статистика на GitHub**  
-
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=AndrewChebotarev&theme=radical&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=REPO_NAME&theme=radical)](https://github.com/AndrewChebotarev/REPO_NAME)
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
 
@@ -24,6 +22,11 @@
 ![Avalonia](https://img.shields.io/badge/-Avalonia-FF3D00?logo=avalonia&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) 
+
+### 🎨 **Интересы**
+- Программирование
+- Игры
+- Чтение научной фантастики
 
 ### 📫 **Как связаться?**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ChebHit)
