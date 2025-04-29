@@ -4,8 +4,6 @@
 🚀 *Software Engineer*  
 
 ### 🔥 **Моя статистика на GitHub**  
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=AndrewChebotarev&theme=radical&hide_border=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
@@ -22,6 +20,12 @@
 ![Avalonia](https://img.shields.io/badge/-Avalonia-FF3D00?logo=avalonia&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) 
+
+### 🌟 **Мои проекты**
+- [QuantumJourneys](https://github.com/AndrewChebotarev/QuantumJourneys) - Интерактивная игра на .net/maui.
+- [MauiAndroidComPort](https://github.com/AndrewChebotarev/MauiAndroidComPort) - Defaul приложение для передачи данных с телефона на плату (TGA).
+- [EnergyDetectorModeling](https://github.com/AndrewChebotarev/EnergyDetectorModeling) - WinForms моделирование энергитического детектора.
+- [KindnessDaily_bot](https://github.com/AndrewChebotarev/KindnessDaily_bot) - ТГ ДоброБот.
 
 ### 🎨 **Интересы**
 - Программирование
