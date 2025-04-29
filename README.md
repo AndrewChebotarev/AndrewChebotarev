@@ -9,8 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=REPO_NAME&theme=radical)](https://github.com/AndrewChebotarev/REPO_NAME)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewChebotarev&show_icons=true&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
+ 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
 
 ### 📈 **График активности**  
