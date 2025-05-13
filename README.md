@@ -23,7 +23,7 @@
 
 ### 🌟 **Мои проекты**
 - [QuantumJourneys](https://github.com/AndrewChebotarev/QuantumJourneys) - Интерактивная игра на .net/maui.
-- [MauiAndroidComPort](https://github.com/AndrewChebotarev/MauiAndroidComPort) - Defaul приложение для передачи данных с телефона на плату (TGA).
+- [MauiAndroidComPort](https://github.com/AndrewChebotarev/MauiAndroidComPort) - Default приложение для передачи данных с телефона на плату (TGA).
 - [EnergyDetectorModeling](https://github.com/AndrewChebotarev/EnergyDetectorModeling) - WinForms моделирование энергитического детектора.
 - [KindnessDaily_bot](https://github.com/AndrewChebotarev/KindnessDaily_bot) - ТГ ДоброБот.
 
