@@ -4,6 +4,7 @@
 🚀 *Software Engineer*  
 
 ### 🔥 **Моя статистика на GitHub**  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewChebotarev)  
