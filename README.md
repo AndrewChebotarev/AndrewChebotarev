@@ -1,40 +1,55 @@
 <div align="center">
 
-# Привет! 👋  
-🚀 *Software Engineer* | *.NET/C++ Developer* | *Desktop Applications*
+# Hi! 👋  
+🚀 *Full-Stack Software Engineer* | *Backend + Desktop/Cross-Platform* | *.NET (C#, MAUI, Unity, WinForms, WPF, Avalonia)* | *C++ (Qt)*
 
-### 🔥 **Моя статистика на GitHub**  
+### 🔥 **My statistics on GitHub**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewChebotarev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/AndrewChebotarev)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/AndrewChebotarev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AndrewChebotarev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-### 📈 **График активности**  
+### 📈 **Activity schedule**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewChebotarev&theme=github-dark&hide_border=true&area=true&custom_title=Моя%20активность%20на%20GitHub)  
 
-### 🛠 **Мой стек технологий**  
+### 🛠 **My technology stack**  
 
 #### 💻 **Backend & Desktop**
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![WinForms](https://img.shields.io/badge/-WinForms-5C2D91?logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=.net&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/-Avalonia-FF3D00?logo=avalonia&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=.net&logoColor=white)
-![WinForms](https://img.shields.io/badge/-WinForms-5C2D91?logo=.net&logoColor=white)
 
 #### 📱 **Mobile & Cross-platform**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?logo=.net&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?logo=xamarin&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
 
-#### 🛠 **Инструменты & Базы данных**
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+IDE & Редакторы
+https://img.shields.io/badge/-Visual%2520Studio-5C2D91?logo=visual-studio&logoColor=white
+https://img.shields.io/badge/-Qt%2520Creator-41CD52?logo=qt&logoColor=white
+https://img.shields.io/badge/-VS%2520Code-007ACC?logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white
+
+Графические редакторы & Дизайн
+https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white
+https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white
+https://img.shields.io/badge/-Draw.io-F08705?logo=diagrams.net&logoColor=white
+
+Системы контроля версий & Git
+https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white
+https://img.shields.io/badge/-GitHub%2520Desktop-8034B0?logo=github&logoColor=white
+
+Базы данных
+https://img.shields.io/badge/-SQL%2520Server-CC2927?logo=microsoft-sql-server&logoColor=white
+https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white
 
 #### 🧪 **Тестирование**
 ![xUnit](https://img.shields.io/badge/-xUnit-100000?logo=.net&logoColor=white)
