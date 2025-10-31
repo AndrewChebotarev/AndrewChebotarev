@@ -33,7 +33,7 @@
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
 
 IDE & Редакторы
-![Visual studio]https://img.shields.io/badge/-Visual%2520Studio-5C2D91?logo=visual-studio&logoColor=white
+![Visual studio](https://img.shields.io/badge/-Visual%2520Studio-5C2D91?logo=visual-studio&logoColor=white)
 https://img.shields.io/badge/-Qt%2520Creator-41CD52?logo=qt&logoColor=white
 https://img.shields.io/badge/-VS%2520Code-007ACC?logo=visual-studio-code&logoColor=white
 https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white
