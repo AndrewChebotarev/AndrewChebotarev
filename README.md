@@ -71,8 +71,8 @@
 [![TBot_SDS](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=TBot_SDS&theme=radical)](https://github.com/AndrewChebotarev/TBot_SDS)
 
 #### 💡 **Training and skill development**
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Leetcode=radical)](https://github.com/AndrewChebotarev/Leetcode)
-[![AIHelper](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AIHelper=radical)](https://github.com/AndrewChebotarev/AIHelper)
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Leetcode&theme=radical)](https://github.com/AndrewChebotarev/Leetcode)
+[![AIHelper](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AIHelper&theme=radical)](https://github.com/AndrewChebotarev/AIHelper)
 
 ### 📊 **Development metrics**
 
