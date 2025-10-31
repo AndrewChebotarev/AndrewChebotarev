@@ -76,70 +76,23 @@
 
 ### 📊 **Development metrics**
 
-#### 🏆 **Достижения**
+#### 🏆 **Achievements**
 ![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&no-frame=true&row=2&column=4)
 
-#### 📝 **Последние активности**
-<!--START_SECTION:activity-->
-<!-- Здесь можно добавить автоматическое обновление активности -->
-<!--END_SECTION:activity-->
+### 🎨 **Interests & Hobbies**
+- 💻 **Programming** - creating desktop applications, games, researching new technologies
+- 🎮 **Games** - developing and playing video games, especially indie projects
+- 📚 **Reading** - science fiction, technical literature
+- 🔬 **Science** - physics, mathematical modeling, algorithms
+- 🎵 **Music** - game soundtracks, electronic music
 
-### 🎨 **Интересы & Хобби**
-- 💻 **Программирование** - создание desktop приложений, игр, исследование новых технологий
-- 🎮 **Игры** - разработка и игра в видеоигры, особенно инди-проекты
-- 📚 **Чтение** - научная фантастика, техническая литература, манга
-- 🔬 **Наука** - физика, математическое моделирование, алгоритмы
-- 🎵 **Музыка** - саундтреки к играм, электронная музыка
-- 🎬 **Аниме & Фильмы** - научная фантастика, фэнтези
-
-### 📚 **Образование & Сертификаты**
-- 🎓 **Высшее техническое образование** - Программная инженерия
-- 📜 **Сертификаты** Microsoft, Qt, .NET (можно добавить конкретные)
-
-### 💼 **Опыт работы**
-- 🏢 **Backend Developer** - Разработка на .NET/C++
-- 💡 **Desktop Applications** - Создание кроссплатформенных приложений
-- 🎯 **Game Development** - Разработка игровых проектов
-
-### 📈 **Цели на 2024**
-- [ ] Завершить разработку QuantumJourneys 🎮
-- [ ] Изучить углубленно Machine Learning 🤖
-- [ ] Участвовать в Open Source проектах 🌐
-- [ ] Разработать мобильное приложение на MAUI 📱
+### 📚 **Education & Certificates**
+- 🎓 **Higher Technical Education** - Master's Degree in Radiophysics, Bachelor's Degree in Radiophysics
+- 📜 **Certificates** hh (c#), Registered Russian Computer Software, Datacroft (Game Development on Unity)
 
 ### 📫 **Как связаться?**  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ChebHit)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wizi48wizi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewchebotarev)
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/your_profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndrewChebotarev)
-
-### 🎵 **Сейчас слушаю**
-[![Spotify](https://spotify-now-playing-git-main-andrewchebotarevs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/your_id)
-
-### 📊 **Еженедельная статистика разработки**
-<!--START_SECTION:waka-->
-```text
-C#       12 hrs 30 mins  ████████████░░░░░░░░░   60.0%
-C++      4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░   20.0%
-CMake    2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░   10.0%
-Other    2 hrs 05 mins   ██░░░░░░░░░░░░░░░░░░░░   10.0%
-<!--END_SECTION:waka-->
-<div align="center">
-⚡ Факт обо мне
-csharp
-public class AndrewChebotarev : SoftwareEngineer 
-{
-    public string[] Skills = { "C#", ".NET", "C++", "Qt", "Avalonia" };
-    public string Passion = "Creating amazing desktop applications";
-    public bool IsLearning() => true;
-    
-    public string GetFunFact() => 
-        "Могу провести весь день, отлаживая сложный баг! 🐛";
-}
-✨ Спасибо, что заглянули! Хорошего дня! ✨
-
-https://komarev.com/ghpvc/?username=AndrewChebotarev&color=blueviolet&style=flat-square
-
-</div> ```
