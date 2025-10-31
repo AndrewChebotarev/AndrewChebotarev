@@ -57,8 +57,8 @@
 #### 🎮 **Games & Applications**
 [![QuantumJourneys](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=QuantumJourneys&theme=radical)](https://github.com/AndrewChebotarev/QuantumJourneys)
 [![Novel](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/Novel)
-[![VoronezhGuide](https://github-readme-stats.vercel.app/api/pin/?username=VoronezhGuide&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/VoronezhGuide)
-[![SiteSDS](https://github-readme-stats.vercel.app/api/pin/?username=SiteSDS&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/SiteSDS)
+[![VoronezhGuide](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=VoronezhGuide&theme=radical)](https://github.com/AndrewChebotarev/VoronezhGuide)
+[![SiteSDS](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=SiteSDS&theme=radical)](https://github.com/AndrewChebotarev/SiteSDS)
 [![MauiAndroidComPort](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=MauiAndroidComPort&theme=radical)](https://github.com/AndrewChebotarev/MauiAndroidComPort)
 [![WebDotGraphs](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=WebDotGraphs&theme=radical)](https://github.com/AndrewChebotarev/WebDotGraphs)
 
