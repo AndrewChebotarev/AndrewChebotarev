@@ -32,23 +32,18 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/-Visual%2520Studio-5C2D91?logo=visual-studio&logoColor=white)](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
-https://img.shields.io/badge/-Qt%2520Creator-41CD52?logo=qt&logoColor=white
-https://img.shields.io/badge/-VS%2520Code-007ACC?logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white
-
-Графические редакторы & Дизайн
-https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white
-https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white
-https://img.shields.io/badge/-Draw.io-F08705?logo=diagrams.net&logoColor=white
-
-Системы контроля версий & Git
-https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white
-https://img.shields.io/badge/-GitHub%2520Desktop-8034B0?logo=github&logoColor=white
-
-Базы данных
-https://img.shields.io/badge/-SQL%2520Server-CC2927?logo=microsoft-sql-server&logoColor=white
-https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white
+#### 🛠 **Инструменты & Базы данных**
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?logo=diagrams.net&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-8034B0?logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 #### 🧪 **Тестирование**
 ![xUnit](https://img.shields.io/badge/-xUnit-100000?logo=.net&logoColor=white)
