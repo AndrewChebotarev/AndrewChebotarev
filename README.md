@@ -32,7 +32,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
 
-#### 🛠 **Инструменты**
+#### 🛠 **Tools**
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white)
@@ -47,24 +47,34 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-#### 🧪 **Тестирование**
+#### 🧪 **Databases**
 ![xUnit](https://img.shields.io/badge/-xUnit-100000?logo=.net&logoColor=white)
 ![NUnit](https://img.shields.io/badge/-NUnit-100000?logo=.net&logoColor=white)
 ![Qt Test](https://img.shields.io/badge/-Qt%20Test-41CD52?logo=qt&logoColor=white)
 
-### 🌟 **Избранные проекты**
+### 🌟 **Selected open source projects**
 
-#### 🎮 **Игры & Приложения**
+#### 🎮 **Games & Applications**
 [![QuantumJourneys](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=QuantumJourneys&theme=radical)](https://github.com/AndrewChebotarev/QuantumJourneys)
+[![Novel](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/Novel)
+[![VoronezhGuide](https://github-readme-stats.vercel.app/api/pin/?username=VoronezhGuide&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/VoronezhGuide)
+[![SiteSDS](https://github-readme-stats.vercel.app/api/pin/?username=SiteSDS&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/SiteSDS)
 [![MauiAndroidComPort](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=MauiAndroidComPort&theme=radical)](https://github.com/AndrewChebotarev/MauiAndroidComPort)
+[![WebDotGraphs](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=WebDotGraphs&theme=radical)](https://github.com/AndrewChebotarev/WebDotGraphs)
 
-#### 🔬 **Научные проекты**
+#### 🔬 **Scientific projects**
 [![EnergyDetectorModeling](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=EnergyDetectorModeling&theme=radical)](https://github.com/AndrewChebotarev/EnergyDetectorModeling)
+[![AspProg](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AspProg&theme=radical)](https://github.com/AndrewChebotarev/AspProg)
 
-#### 🤖 **Боты & Автоматизация**
+#### 🤖 **Bots**
 [![KindnessDaily_bot](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=KindnessDaily_bot&theme=radical)](https://github.com/AndrewChebotarev/KindnessDaily_bot)
+[![TBot_SDS](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=TBot_SDS&theme=radical)](https://github.com/AndrewChebotarev/TBot_SDS)
 
-### 📊 **Метрики разработки**
+#### 💡 **Training and skill development**
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Leetcode=radical)](https://github.com/AndrewChebotarev/Leetcode)
+[![AIHelper](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AIHelper=radical)](https://github.com/AndrewChebotarev/AIHelper)
+
+### 📊 **Development metrics**
 
 #### 🏆 **Достижения**
 ![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&no-frame=true&row=2&column=4)
