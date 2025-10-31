@@ -32,7 +32,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
 
-#### 🛠 **Инструменты & Базы данных**
+#### 🛠 **Инструменты**
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white)
@@ -42,6 +42,8 @@
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-8034B0?logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
+
+#### 🗄️ **Базы данных**
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
