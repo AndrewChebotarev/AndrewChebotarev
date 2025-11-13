@@ -65,6 +65,7 @@
 #### 🔬 **Scientific projects**
 [![EnergyDetectorModeling](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=EnergyDetectorModeling&theme=radical)](https://github.com/AndrewChebotarev/EnergyDetectorModeling)
 [![AspProg](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AspProg&theme=radical)](https://github.com/AndrewChebotarev/AspProg)
+[![CsharpTrainer](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=CsharpTrainer&theme=radical)](https://github.com/AndrewChebotarev/CsharpTrainer)
 
 #### 🤖 **Bots**
 [![KindnessDaily_bot](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=KindnessDaily_bot&theme=radical)](https://github.com/AndrewChebotarev/KindnessDaily_bot)
