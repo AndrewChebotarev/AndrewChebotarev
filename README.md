@@ -61,6 +61,7 @@
 [![SiteSDS](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=SiteSDS&theme=radical)](https://github.com/AndrewChebotarev/SiteSDS)
 [![MauiAndroidComPort](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=MauiAndroidComPort&theme=radical)](https://github.com/AndrewChebotarev/MauiAndroidComPort)
 [![WebDotGraphs](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=WebDotGraphs&theme=radical)](https://github.com/AndrewChebotarev/WebDotGraphs)
+[![LearnUnity](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=LearnUnity&theme=radical)](https://github.com/AndrewChebotarev/LearnUnity)
 
 #### 🔬 **Scientific projects**
 [![EnergyDetectorModeling](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=EnergyDetectorModeling&theme=radical)](https://github.com/AndrewChebotarev/EnergyDetectorModeling)
