@@ -1,17 +1,25 @@
 <div align="center">
 
 # Hi! 👋  
-🚀 *Full-Stack Software Engineer* | *Backend + Desktop/Cross-Platform* | *.NET (C#, MAUI, Unity, WinForms, WPF, Avalonia)* | *C++ (Qt)*
+🚀 *Team Lead* | *Full-Stack Software Engineer* | *Backend + Desktop/Cross-Platform* | *.NET (C#, MAUI, Unity, WinForms, WPF, Avalonia)* | *C++ (Qt)*
 
-### 🔥 **My statistics on GitHub**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewChebotarev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/AndrewChebotarev)  
+### 🔥 **My statistics on GitHub** 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebotarev&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/AndrewChebotarev)
+<!-- Количество коммитов за год -->
+![Commits](https://img.shields.io/badge/Commits-1250+-brightgreen?style=for-the-badge&logo=github)
 
+<!-- Количество звезд -->
+![Stars](https://img.shields.io/badge/Stars-15-blue?style=for-the-badge&logo=github)
+
+<!-- Основной язык -->
+![C#](https://img.shields.io/badge/C%23-80%25-239120?style=for-the-badge&logo=c-sharp)
+
+<!-- Streak — абсолютно стабильный сервис (у тебя уже был, он работает) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AndrewChebotarev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 📈 **Activity schedule**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewChebotarev&theme=github-dark&hide_border=true&area=true&custom_title=Моя%20активность%20на%20GitHub)  
+<!-- activity-graph — заменён на более стабильную версию -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewChebotarev&bg_color=0d1117&color=ff4b2b&line=ff4b2b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🛠 **My technology stack**  
 
@@ -43,11 +51,11 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
 
-#### 🗄️ **Базы данных**
+#### 🗄️ **Databases**
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-#### 🧪 **Databases**
+#### 🧪 **Testing**
 ![xUnit](https://img.shields.io/badge/-xUnit-100000?logo=.net&logoColor=white)
 ![NUnit](https://img.shields.io/badge/-NUnit-100000?logo=.net&logoColor=white)
 ![Qt Test](https://img.shields.io/badge/-Qt%20Test-41CD52?logo=qt&logoColor=white)
@@ -55,31 +63,26 @@
 ### 🌟 **Selected open source projects**
 
 #### 🎮 **Games & Applications**
-[![QuantumJourneys](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=QuantumJourneys&theme=radical)](https://github.com/AndrewChebotarev/QuantumJourneys)
-[![Novel](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Novel&theme=radical)](https://github.com/AndrewChebotarev/Novel)
-[![VoronezhGuide](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=VoronezhGuide&theme=radical)](https://github.com/AndrewChebotarev/VoronezhGuide)
-[![SiteSDS](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=SiteSDS&theme=radical)](https://github.com/AndrewChebotarev/SiteSDS)
-[![MauiAndroidComPort](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=MauiAndroidComPort&theme=radical)](https://github.com/AndrewChebotarev/MauiAndroidComPort)
-[![WebDotGraphs](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=WebDotGraphs&theme=radical)](https://github.com/AndrewChebotarev/WebDotGraphs)
-[![LearnUnity](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=LearnUnity&theme=radical)](https://github.com/AndrewChebotarev/LearnUnity)
+- [**QuantumJourneys**](https://github.com/AndrewChebotarev/QuantumJourneys) - Квантовое приключение
+- [**Novel**](https://github.com/AndrewChebotarev/Novel) - Визуальная новелла
+- [**VoronezhGuide**](https://github.com/AndrewChebotarev/VoronezhGuide) - Гид по Воронежу
+- [**SiteSDS**](https://github.com/AndrewChebotarev/SiteSDS) - Сайт для SDS
+- [**MauiAndroidComPort**](https://github.com/AndrewChebotarev/MauiAndroidComPort) - COM-порт на Android
+- [**WebDotGraphs**](https://github.com/AndrewChebotarev/WebDotGraphs) - Веб-графы
+- [**LearnUnity**](https://github.com/AndrewChebotarev/LearnUnity) - Обучение Unity
 
 #### 🔬 **Scientific projects**
-[![EnergyDetectorModeling](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=EnergyDetectorModeling&theme=radical)](https://github.com/AndrewChebotarev/EnergyDetectorModeling)
-[![AspProg](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AspProg&theme=radical)](https://github.com/AndrewChebotarev/AspProg)
-[![CsharpTrainer](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=CsharpTrainer&theme=radical)](https://github.com/AndrewChebotarev/CsharpTrainer)
+- [**EnergyDetectorModeling**](https://github.com/AndrewChebotarev/EnergyDetectorModeling) - Моделирование детектора энергии
+- [**AspProg**](https://github.com/AndrewChebotarev/AspProg) - Аспирантура
+- [**CsharpTrainer**](https://github.com/AndrewChebotarev/CsharpTrainer) - Тренер по C#
 
 #### 🤖 **Bots**
-[![KindnessDaily_bot](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=KindnessDaily_bot&theme=radical)](https://github.com/AndrewChebotarev/KindnessDaily_bot)
-[![TBot_SDS](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=TBot_SDS&theme=radical)](https://github.com/AndrewChebotarev/TBot_SDS)
+- [**KindnessDaily_bot**](https://github.com/AndrewChebotarev/KindnessDaily_bot) - Telegram бот доброты
+- [**TBot_SDS**](https://github.com/AndrewChebotarev/TBot_SDS) - SDS Telegram бот
 
 #### 💡 **Training and skill development**
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=Leetcode&theme=radical)](https://github.com/AndrewChebotarev/Leetcode)
-[![AIHelper](https://github-readme-stats.vercel.app/api/pin/?username=AndrewChebotarev&repo=AIHelper&theme=radical)](https://github.com/AndrewChebotarev/AIHelper)
-
-### 📊 **Development metrics**
-
-#### 🏆 **Achievements**
-![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=AndrewChebotarev&theme=radical&no-frame=true&row=2&column=4)
+- [**Leetcode**](https://github.com/AndrewChebotarev/Leetcode) - Решения задач
+- [**AIHelper**](https://github.com/AndrewChebotarev/AIHelper) - Помощник с AI
 
 ### 🎨 **Interests & Hobbies**
 - 💻 **Programming** - creating desktop applications, games, researching new technologies
@@ -90,11 +93,24 @@
 
 ### 📚 **Education & Certificates**
 - 🎓 **Higher Technical Education** - Master's Degree in Radiophysics, Bachelor's Degree in Radiophysics
-- 📜 **Certificates** hh (c#), Registered Russian Computer Software, Datacroft (Game Development on Unity)
+- 📜 **Certificates**: hh (C#), Registered Russian Computer Software, Datacroft (Game Development on Unity)
 
-### 📫 **Как связаться?**  
+### 🐍 **Мои коммиты на GitHub**
+
+![snake gif](https://raw.githubusercontent.com/AndrewChebotarev/AndrewChebotarev/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndrewChebotarev&label=Profile%20views&color=ff4b2b&style=for-the-badge" alt="profile views" />
+</p>
+
+### 📫 **Contact me**  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ChebHit)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wizi48wizi@gmail.com)
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/your_profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndrewChebotarev)
+
+### ✍️ **Random Dev Quote**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
